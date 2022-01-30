@@ -25,7 +25,7 @@ if şif_o == şif_onay:
     if k_adı == k_adı_o and şif == şif_o and tk_kod == tk_kod_o:
         print("✔️SİSTEME BAŞARIYLA GİRİŞ YAPILDI  ✔️")
         print("HOŞGELDİNİZ!")
-        print("@kadir.aydn25")
+        print("@_kadiraydnn_")
         #Kadir Aydın
 
     else:
